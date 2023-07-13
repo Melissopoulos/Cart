@@ -5,5 +5,7 @@ React hooks are used for this project and especially useReducer and useContext h
 
 Run project:
 
- cd cart/ 
- npm start
+    
+    cd cart/
+ 
+    npm start
